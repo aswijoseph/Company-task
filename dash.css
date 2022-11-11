@@ -1,0 +1,61 @@
+.dbtn{
+margin-left: 500px;}
+
+.dh3{
+    margin-left: 500px;
+}
+
+
+
+.tmain_div{
+    color: aliceblue;
+    border: solid 1px;
+    height:400px;
+width:400px;
+margin-left: 500px;
+margin-top: 150px;
+background-image: linear-gradient(to left,rgb(31, 31, 75) , darkblue);
+
+}
+
+
+.title3{
+    text-align: left;
+}
+.bttt{
+    color: white;
+}
+.div1{
+    border: solid;
+    height: 700px;
+    width:1600px;
+}
+.icon_name8{
+    margin-left:120px;
+}
+.head_name3{
+    margin-top:-50px;
+    margin-left: 200px;
+    color:black;
+} 
+.addtask{
+    width: 1200px;
+    height: 700px;
+    border: solid;
+    margin-left: 280px;
+    margin-top: -800px;
+}
+.divtask{
+    width: 1200px;
+    height: 700px;
+    border: solid;
+    margin-left: 300px;
+    margin-top: 100px;
+    
+}
+.mt{
+  
+
+    background-image: linear-gradient(to left,rgb(31, 31, 75) , darkblue);
+    color: white;
+}
